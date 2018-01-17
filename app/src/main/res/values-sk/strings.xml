@@ -1,0 +1,101 @@
+<resources>
+    <string name="mp.app.name">Media Player-Advanced Audio</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">Zrušiť</string>
+    <string name="mp.Confirm">potvrdiť</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">playlist</string>
+    <string name="mp.fragment.title.music">hudba</string>
+    <string name="mp.fragment.title.local_files">miestne súbory</string>
+    <string name="mp.fragment.title.settings">nastavenie</string>
+    <string name="mp.fragment.title.aboutus">Kontakt</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">SDCard</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">obľúbený</string>
+    <string name="mp.play_list.footer.add">Pridať playlist</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d zoznamy skladieb celkom</string>
+
+    <string name="mp.play_list.create">Vytvoriť zoznam skladieb</string>
+    <string name="mp.play_list.created">%s vytvoril</string>
+    <string name="mp.play_list.edit">edit Playlist</string>
+    <string name="mp.play_list.dialog.hint">playlist názov</string>
+    <string name="mp.play_list.dialog.add_to">Pridať do zoznamu skladieb</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">Žiadna hudba sem, choď pridať niektoré!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d skladieb celkom</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">Všetko</string>
+    <string name="mp.local_files.segmented.folder">zložka</string>
+
+    <string name="mp.local_files.music_list.empty">v tomto zariadení nájdená žiadna hudba</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d skladieb celkom</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d zložky celkom</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d piesne | %s</string>
+    <string name="mp.local_files.folder_list.add_folder">Pridať priečinok</string>
+
+    <string name="mp.local_files.file_system.empty">Žiadne súbory v tomto adresári</string>
+    <string name="mp.local_files.file_system.menu.done">hotový</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">Pridať do zoznamu skladieb</string>
+    <string name="mp.menu.create_play_list">Vytvoriť zoznam skladieb</string>
+    <string name="mp.menu.refresh">Obnoviť</string>
+    <string name="mp.menu.play_now">Hrať teraz</string>
+    <string name="mp.menu.rename">premenovať</string>
+    <string name="mp.menu.delete">vymazať</string>
+
+
+
+
+    <string name="settingswelcometext">Ďalšie funkcie príde čoskoro. Prosím, zostaň v kontakte a užiť si našu Prehrávač médií.</string>
+
+    <string name="contactus">Kontaktuj nás: contact@littlebitltd.com</string>
+
+
+
+</resources>

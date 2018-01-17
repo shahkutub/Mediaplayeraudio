@@ -1,0 +1,101 @@
+<resources>
+    <string name="mp.app.name">Media Player-Advanced Audio</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">Отмена</string>
+    <string name="mp.Confirm">подтвердить</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">Список воспроизведения</string>
+    <string name="mp.fragment.title.music">Музыка</string>
+    <string name="mp.fragment.title.local_files">Локальные файлы</string>
+    <string name="mp.fragment.title.settings">настройки</string>
+    <string name="mp.fragment.title.aboutus">контакт</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">SDCard</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">любимый</string>
+    <string name="mp.play_list.footer.add">Добавить плейлист</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d плейлисты в общем</string>
+
+    <string name="mp.play_list.create">Создать список воспроизведения</string>
+    <string name="mp.play_list.created">%s созданный</string>
+    <string name="mp.play_list.edit">Редактирование списка воспроизведения</string>
+    <string name="mp.play_list.dialog.hint">название плейлиста</string>
+    <string name="mp.play_list.dialog.add_to">Добавить в плейлист</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">Никакой музыки здесь, не идут добавить некоторые!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d песни в общей сложности</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">Все</string>
+    <string name="mp.local_files.segmented.folder">папка</string>
+
+    <string name="mp.local_files.music_list.empty">Нет музыки найдено на этом устройстве</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d песни в общей сложности</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d папки в общей сложности</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d песни | %s</string>
+    <string name="mp.local_files.folder_list.add_folder">Добавить папку</string>
+
+    <string name="mp.local_files.file_system.empty">Нет файлов в этой директории</string>
+    <string name="mp.local_files.file_system.menu.done">Готово</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">Добавить в плейлист</string>
+    <string name="mp.menu.create_play_list">Создать список воспроизведения</string>
+    <string name="mp.menu.refresh">обновление</string>
+    <string name="mp.menu.play_now">Играть сейчас</string>
+    <string name="mp.menu.rename">переименовывать</string>
+    <string name="mp.menu.delete">Удалить</string>
+
+
+
+
+    <string name="settingswelcometext">Дополнительные функции скоро придет. Пожалуйста, оставайтесь на связи и пользоваться нашим медиа-плеер.</string>
+
+    <string name="contactus">Свяжитесь с нами: contact@littlebitltd.com</string>
+
+
+
+</resources>

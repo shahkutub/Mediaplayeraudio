@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Sadi\\Mediaplayeraudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "E:\\Sadi\\Mediaplayeraudio\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "6,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "195,133,75",
+                        "endColumns": "64,61,57",
+                        "endOffsets": "255,190,128"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,120,182",
+                        "endColumns": "64,61,57",
+                        "endOffsets": "115,177,235"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NanoSoft\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\7d001932bceb89121419a8a1cbb4fb9c\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "240",
+                        "endLines": "9",
+                        "endColumns": "13",
+                        "endOffsets": "512"
+                    }
+                }
+            ]
+        }
+    ]
+}

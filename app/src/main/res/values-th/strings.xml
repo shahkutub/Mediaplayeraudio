@@ -1,0 +1,101 @@
+<resources>
+    <string name="mp.app.name">Media Player ขั้นสูงและเสียง</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">ยกเลิก</string>
+    <string name="mp.Confirm">ยืนยัน</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">เพลย์ลิส</string>
+    <string name="mp.fragment.title.music">เพลง</string>
+    <string name="mp.fragment.title.local_files">ไฟล์ท้องถิ่น</string>
+    <string name="mp.fragment.title.settings">การตั้งค่า</string>
+    <string name="mp.fragment.title.aboutus">ติดต่อ</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">SDCard</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">ที่ชื่นชอบ</string>
+    <string name="mp.play_list.footer.add">เพิ่มรายการเพลง</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d รายการเพลงทั้งหมด</string>
+
+    <string name="mp.play_list.create">สร้างเพลย์ลิส</string>
+    <string name="mp.play_list.created">%s สร้าง</string>
+    <string name="mp.play_list.edit">แก้ไขเพลย์ลิส</string>
+    <string name="mp.play_list.dialog.hint">ชื่อเพลย์ลิส</string>
+    <string name="mp.play_list.dialog.add_to">เพิ่มในรายการเพลง</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">เพลงที่นี่ไม่มีให้ไปเพิ่มบาง!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d เพลงทั้งหมด</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">ทั้งหมด</string>
+    <string name="mp.local_files.segmented.folder">โฟลเดอร์</string>
+
+    <string name="mp.local_files.music_list.empty">ไม่พบในอุปกรณ์นี้เพลง</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d เพลงทั้งหมด</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d โฟลเดอร์ทั้งหมด</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d เพลง | %s</string>
+    <string name="mp.local_files.folder_list.add_folder">เพิ่มกล่องเก็บไฟล์</string>
+
+    <string name="mp.local_files.file_system.empty">ไม่มีไฟล์ภายใต้ไดเรกทอรีนี้</string>
+    <string name="mp.local_files.file_system.menu.done">เสร็จสิ้น</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">เพิ่มในรายการเพลง</string>
+    <string name="mp.menu.create_play_list">สร้างเพลย์ลิส</string>
+    <string name="mp.menu.refresh">รีเฟรช</string>
+    <string name="mp.menu.play_now">เล่นตอนนี้</string>
+    <string name="mp.menu.rename">ตั้งชื่อใหม่</string>
+    <string name="mp.menu.delete">ลบ</string>
+
+
+
+
+    <string name="settingswelcometext">คุณสมบัติอื่น ๆ จะมาเร็ว ๆ นี้ โปรดอยู่ในการติดต่อและสนุกกับเครื่องเล่นสื่อของเรา</string>
+
+    <string name="contactus">ติดต่อเรา: contact@littlebitltd.com</string>
+
+
+
+</resources>

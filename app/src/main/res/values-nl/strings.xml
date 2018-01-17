@@ -1,0 +1,101 @@
+<resources>
+    <string name="mp.app.name">Media Player-Advanced Audio</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">Annuleer</string>
+    <string name="mp.Confirm">Bevestigen</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">afspeellijst</string>
+    <string name="mp.fragment.title.music">Muziek</string>
+    <string name="mp.fragment.title.local_files">Lokale bestanden</string>
+    <string name="mp.fragment.title.settings">instellingen</string>
+    <string name="mp.fragment.title.aboutus">Contact</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">SD-kaart</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">Favoriete</string>
+    <string name="mp.play_list.footer.add">afspeellijst</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d afspeellijsten in totaal</string>
+
+    <string name="mp.play_list.create">Maak een afspeellijst</string>
+    <string name="mp.play_list.created">%s aangemaakt</string>
+    <string name="mp.play_list.edit">bewerken playlist</string>
+    <string name="mp.play_list.dialog.hint">playlist naam</string>
+    <string name="mp.play_list.dialog.add_to">Toevoegen aan afspeellijst</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">Geen muziek hier, ga voeg wat!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d songs in totaal</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">Alle</string>
+    <string name="mp.local_files.segmented.folder">Map</string>
+
+    <string name="mp.local_files.music_list.empty">Geen muziek gevonden op dit apparaat</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d songs in totaal</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d mappen in totaal</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d songs | %s</string>
+    <string name="mp.local_files.folder_list.add_folder">Map toevoegen</string>
+
+    <string name="mp.local_files.file_system.empty">Geen bestanden onder deze map</string>
+    <string name="mp.local_files.file_system.menu.done">Gedaan</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">Toevoegen aan afspeellijst</string>
+    <string name="mp.menu.create_play_list">Maak een afspeellijst</string>
+    <string name="mp.menu.refresh">verversen</string>
+    <string name="mp.menu.play_now">Nu afspelen</string>
+    <string name="mp.menu.rename">andere naam geven</string>
+    <string name="mp.menu.delete">Verwijder</string>
+
+
+
+
+    <string name="settingswelcometext">Meer functies zal spoedig komen. Gelieve in contact te blijven en genieten van onze Media player.</string>
+
+    <string name="contactus">Neem contact met ons op: contact@littlebitltd.com</string>
+
+
+
+</resources>

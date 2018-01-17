@@ -1,0 +1,101 @@
+<resources>
+    <string name="mp.app.name">Media Player-Advanced Audio</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">Anuluj</string>
+    <string name="mp.Confirm">Potwierdzać</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">Lista odtwarzania</string>
+    <string name="mp.fragment.title.music">Muzyka</string>
+    <string name="mp.fragment.title.local_files">lokalne pliki</string>
+    <string name="mp.fragment.title.settings">Ustawienia</string>
+    <string name="mp.fragment.title.aboutus">Kontakt</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">SDCard</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">Ulubiony</string>
+    <string name="mp.play_list.footer.add">Dodaj playlistę</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d odtwarzania w sumie</string>
+
+    <string name="mp.play_list.create">Tworzenie listy odtwarzania</string>
+    <string name="mp.play_list.created">%s stworzony</string>
+    <string name="mp.play_list.edit">Edit Playlist</string>
+    <string name="mp.play_list.dialog.hint">Nazwa playlisty</string>
+    <string name="mp.play_list.dialog.add_to">Dodaj do listy odtwarzania</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">Brak muzyki tutaj, przejdź dodać trochę!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d Piosenki w sumie</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">Wszystko</string>
+    <string name="mp.local_files.segmented.folder">Teczka</string>
+
+    <string name="mp.local_files.music_list.empty">Nie znaleziono na tym urządzeniu muzyki</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d Piosenki w sumie</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d foldery w sumie</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d piosenki | %s</string>
+    <string name="mp.local_files.folder_list.add_folder">Dodaj folder</string>
+
+    <string name="mp.local_files.file_system.empty">Brak plików w tym katalogu</string>
+    <string name="mp.local_files.file_system.menu.done">Gotowe</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">Dodaj do listy odtwarzania</string>
+    <string name="mp.menu.create_play_list">Tworzenie listy odtwarzania</string>
+    <string name="mp.menu.refresh">Odświeżać</string>
+    <string name="mp.menu.play_now">Zagraj teraz</string>
+    <string name="mp.menu.rename">Przemianować</string>
+    <string name="mp.menu.delete">Kasować</string>
+
+
+
+
+    <string name="settingswelcometext">Więcej funkcji już wkrótce. Proszę pozostać w kontakcie i cieszyć nasze odtwarzacza multimedialnego.</string>
+
+    <string name="contactus">Skontaktuj się z nami: contact@littlebitltd.com</string>
+
+
+
+</resources>

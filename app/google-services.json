@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "397346332682",
+    "firebase_url": "https://media-player-advanced-audio.firebaseio.com",
+    "project_id": "media-player-advanced-audio",
+    "storage_bucket": "media-player-advanced-audio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397346332682:android:4be66dad918acb75",
+        "android_client_info": {
+          "package_name": "com.aapbd.mediaplayeraudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397346332682-gmpa3he69u14s78pqf92svf0v0kodvbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aapbd.mediaplayeraudio",
+            "certificate_hash": "74622E46AEC3ED4CBD639C0D993E61A9CEE0F997"
+          }
+        },
+        {
+          "client_id": "397346332682-bfbv704jhjpbvg60cpc1nhob47e03sg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNVqrEEOINUw6fYlQd96TEgA2WKUzAQDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

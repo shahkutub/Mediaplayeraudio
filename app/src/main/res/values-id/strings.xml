@@ -1,0 +1,100 @@
+<resources>
+    <string name="mp.app.name">Media Player-Advanced Audio</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">Membatalkan</string>
+    <string name="mp.Confirm">Memastikan</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">Play List</string>
+    <string name="mp.fragment.title.music">Musik</string>
+    <string name="mp.fragment.title.local_files">File lokal</string>
+    <string name="mp.fragment.title.settings">pengaturan</string>
+    <string name="mp.fragment.title.aboutus">Kontak</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">Kartu SD</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">Favorit</string>
+    <string name="mp.play_list.footer.add">Tambahkan daftar putar</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d bermain daftar total</string>
+
+    <string name="mp.play_list.create">Buat daftar putar</string>
+    <string name="mp.play_list.created">%s dibuat</string>
+    <string name="mp.play_list.edit">mengedit Daftar Putar</string>
+    <string name="mp.play_list.dialog.hint">Bermain nama daftar</string>
+    <string name="mp.play_list.dialog.add_to">Tambahkan ke Daftar Putar</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">Tidak ada musik di sini, pergi menambahkan beberapa!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d lagu secara total</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">Semua</string>
+    <string name="mp.local_files.segmented.folder">Folder</string>
+
+    <string name="mp.local_files.music_list.empty">Tidak ada musik yang ditemukan di perangkat ini</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d lagu secara total</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d folder secara total</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d lagu | %s</string>
+
+    <string name="mp.local_files.file_system.empty">Tidak ada file di bawah direktori ini</string>
+    <string name="mp.local_files.file_system.menu.done">Matang</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">Tambahkan ke Daftar Putar</string>
+    <string name="mp.menu.create_play_list">Buat daftar putar</string>
+    <string name="mp.menu.refresh">Menyegarkan</string>
+    <string name="mp.menu.play_now">Main sekarang</string>
+    <string name="mp.menu.rename">Ganti nama</string>
+    <string name="mp.menu.delete">Menghapus</string>
+
+
+
+
+    <string name="settingswelcometext">Fitur lainnya akan segera datang. Harap tetap berhubungan dan menikmati Pemutar media kami.</string>
+
+    <string name="contactus">Hubungi kami: contact@littlebitltd.com</string>
+    <string name="mp.local_files.folder_list.add_folder">Tambah Folder</string>
+
+
+</resources>

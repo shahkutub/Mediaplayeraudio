@@ -1,0 +1,101 @@
+<resources>
+    <string name="mp.app.name">Media Player-Advanced Audio</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">Annullera</string>
+    <string name="mp.Confirm">Bekräfta</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">Spellista</string>
+    <string name="mp.fragment.title.music">musik</string>
+    <string name="mp.fragment.title.local_files">lokala filer</string>
+    <string name="mp.fragment.title.settings">inställningar</string>
+    <string name="mp.fragment.title.aboutus">Kontakta</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">SDCard</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">Favorit</string>
+    <string name="mp.play_list.footer.add">Lägg spellista</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d spellistor totalt</string>
+
+    <string name="mp.play_list.create">Skapa spellista</string>
+    <string name="mp.play_list.created">%s skapade</string>
+    <string name="mp.play_list.edit">Redigera spellista</string>
+    <string name="mp.play_list.dialog.hint">spellistans namn</string>
+    <string name="mp.play_list.dialog.add_to">Lägg till i spellista</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">Ingen musik här, gå lägga till några!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d låtar totalt</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">Allt</string>
+    <string name="mp.local_files.segmented.folder">Mapp</string>
+
+    <string name="mp.local_files.music_list.empty">Ingen musik hittades på den här enheten</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d låtar totalt</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d mappar totalt</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d låtar | %s</string>
+    <string name="mp.local_files.folder_list.add_folder">Lägg till mapp</string>
+
+    <string name="mp.local_files.file_system.empty">Inga filer i den här katalogen</string>
+    <string name="mp.local_files.file_system.menu.done">Klart</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">Lägg till i spellista</string>
+    <string name="mp.menu.create_play_list">Skapa spellista</string>
+    <string name="mp.menu.refresh">Refresh</string>
+    <string name="mp.menu.play_now">Spela nu</string>
+    <string name="mp.menu.rename">Döpa om</string>
+    <string name="mp.menu.delete">Radera</string>
+
+
+
+
+    <string name="settingswelcometext">Fler funktioner kommer snart. Vänligen hålla kontakten och njuta av vår Mediaspelare .</string>
+
+    <string name="contactus">Kontakta oss: contact@littlebitltd.com</string>
+
+
+
+</resources>

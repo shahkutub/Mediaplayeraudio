@@ -1,0 +1,97 @@
+<resources>
+    <string name="mp.app.name">Media Player-Advanced Audio</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">Kansellere</string>
+    <string name="mp.Confirm">Bekrefte</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">spilleliste</string>
+    <string name="mp.fragment.title.music">Musikk</string>
+    <string name="mp.fragment.title.local_files">lokale filer</string>
+    <string name="mp.fragment.title.settings">innstillinger</string>
+    <string name="mp.fragment.title.aboutus">Kontakt</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">SD kort</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">Favoritt</string>
+    <string name="mp.play_list.footer.add">Legg spilleliste</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d spillelister i total</string>
+
+    <string name="mp.play_list.create">Opprett spilleliste</string>
+    <string name="mp.play_list.created">%s opprettet</string>
+    <string name="mp.play_list.edit">Rediger spilleliste</string>
+    <string name="mp.play_list.dialog.hint">navn på spilleliste</string>
+    <string name="mp.play_list.dialog.add_to">Legg til i spilleliste</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">Ingen musikk her, gå legge til noen!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d sanger totalt</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">Alle</string>
+    <string name="mp.local_files.segmented.folder">Mappe</string>
+
+    <string name="mp.local_files.music_list.empty">Ingen musikk funnet på denne enheten</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d sanger totalt</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d mapper totalt</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d sanger | %s</string>
+    <string name="mp.local_files.folder_list.add_folder">Legg til mappe</string>
+
+    <string name="mp.local_files.file_system.empty">Ingen filer under denne katalogen</string>
+    <string name="mp.local_files.file_system.menu.done">Ferdig</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">Legg til i spilleliste</string>
+    <string name="mp.menu.create_play_list">Opprett spilleliste</string>
+    <string name="mp.menu.refresh">Forfriske</string>
+    <string name="mp.menu.play_now">Leke nå</string>
+    <string name="mp.menu.rename">Gi nytt navn</string>
+    <string name="mp.menu.delete">Slett</string>
+
+
+    <string name="contactus">Kontakt oss: contact@littlebitltd.com</string>
+    <string name="settingswelcometext">Flere funksjoner vil komme snart. Vennligst holde kontakten og nyte vår Mediespiller.</string>
+
+
+</resources>

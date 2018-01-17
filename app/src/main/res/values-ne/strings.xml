@@ -1,0 +1,101 @@
+<resources>
+    <string name="mp.app.name">मिडिया प्लेयर-विकसित अडियो</string>
+
+    <string name="mp.list.layoutManager.linear">LinearLayoutManager</string>
+
+    <!-- Common -->
+
+    <string name="mp.cancel">रद्द</string>
+    <string name="mp.Confirm">पुष्टि गर्नुहोस्</string>
+
+    <!-- Activity/Fragment Titles -->
+    <string name="mp.fragment.title.play_list">प्ले सूची</string>
+    <string name="mp.fragment.title.music">संगीत</string>
+    <string name="mp.fragment.title.local_files">स्थानीय फाइलहरू</string>
+    <string name="mp.fragment.title.settings">सेटिङ</string>
+    <string name="mp.fragment.title.aboutus">संपर्क</string>
+
+
+
+
+    <string name="mp.activity.title.file_system">SDCard</string>
+
+    <!-- Play Lists -->
+    <string name="mp.play_list.favorite">मनपर्ने</string>
+    <string name="mp.play_list.footer.add">प्लेसूची थप्न</string>
+    <string name="mp.play_list.footer.end_summary_formatter">%d कुल प्लेलिस्टहरू</string>
+
+    <string name="mp.play_list.create">प्लेसूची सिर्जना</string>
+    <string name="mp.play_list.created">%s सिर्जना</string>
+    <string name="mp.play_list.edit">प्लेलिस्ट सम्पादन गर्नुहोस्</string>
+    <string name="mp.play_list.dialog.hint">बजाउनेसूचीनाम</string>
+    <string name="mp.play_list.dialog.add_to">प्लेसूचीमाथप्नुहोस्</string>
+
+    <plurals name="mp_play_list_items_formatter">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+
+    <!-- Play Lists - Details -->
+    <string name="mp.play_list.details.empty">यहाँ कुनै संगीत, जाने केही थप्न!</string>
+    <string name="mp.play_list.details.footer.end_summary_formatter">%d कुल गीतहरू</string>
+
+    <!-- Main -->
+    <string-array name="mp_main_titles">
+        <item>@string/mp.fragment.title.play_list</item>
+        <item>@string/mp.fragment.title.music</item>
+        <item>@string/mp.fragment.title.local_files</item>
+        <item>@string/mp.fragment.title.settings</item>
+
+    </string-array>
+
+    <!-- Music -->
+
+    <string name="mp.music.default_duration">00:00</string>
+
+    <!-- Local Files -->
+    <string name="mp.local_files.segmented.all">सबै</string>
+    <string name="mp.local_files.segmented.folder">फोल्डर</string>
+
+    <string name="mp.local_files.music_list.empty">कुनै संगीत यो उपकरणमा फेला</string>
+    <string name="mp.local_files.music_list.end_summary_formatter">%d कुल गीतहरू</string>
+    <string name="mp.local_files.folder_list.end_summary_formatter">%d कुल फोल्डरहरू</string>
+    <string name="mp.local_files.folder_list.item_info_formatter" formatted="false">%d गीतहरू | %s</string>
+    <string name="mp.local_files.folder_list.add_folder">फोल्डर</string>
+
+    <string name="mp.local_files.file_system.empty">यो निर्देशिका अन्तर्गत कुनै फाइल</string>
+    <string name="mp.local_files.file_system.menu.done">सम्पन्न</string>
+
+    <!-- Local Files - File System -->
+    <plurals name="mp_folders_created_formatter">
+        <item quantity="one">%d new folder created</item>
+        <item quantity="other">%d new folders created</item>
+    </plurals>
+    <plurals name="mp_directory_items_formatter">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="mp_selected_folders_formatter">
+        <item quantity="one">%d folder selected</item>
+        <item quantity="other">%d folders selected</item>
+    </plurals>
+
+    <!-- Menu -->
+    <string name="mp.menu.add_to_play_list">प्लेसूचीमाथप्नुहोस्</string>
+    <string name="mp.menu.create_play_list">प्लेसूची सिर्जना</string>
+    <string name="mp.menu.refresh">ताजा</string>
+    <string name="mp.menu.play_now">खेल अब</string>
+    <string name="mp.menu.rename">पुन: नामाकरण</string>
+    <string name="mp.menu.delete">मेटाउन</string>
+
+
+
+
+    <string name="settingswelcometext">थप सुविधाहरू चाँडै आउनेछ। कृपया सम्पर्कमा रहन र हाम्रो मिडिया प्लेयर आनन्द।</string>
+
+    <string name="contactus">हामीलाई सम्पर्क गर्नुहोस: contact@littlebitltd.com</string>
+
+
+
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Sadi\\Mediaplayeraudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "E:\\Sadi\\Mediaplayeraudio\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "193,130,72",
+                        "endColumns": "64,62,57",
+                        "endOffsets": "253,188,125"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,120,183",
+                        "endColumns": "64,62,57",
+                        "endOffsets": "115,178,236"
+                    }
+                }
+            ]
+        }
+    ]
+}
