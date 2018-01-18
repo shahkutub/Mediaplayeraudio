@@ -14,6 +14,7 @@ public class MusicPlayerApplication extends Application {
 
     private static MusicPlayerApplication sInstance;
 
+
     @Override
     public void onCreate() {
         super.onCreate();
