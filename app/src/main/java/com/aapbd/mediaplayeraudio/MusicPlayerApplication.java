@@ -19,6 +19,7 @@ public class MusicPlayerApplication extends Application {
     public void onCreate() {
         super.onCreate();
 
+        
         sInstance = this;
 
         // Custom fonts
